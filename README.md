@@ -1,1 +1,1 @@
-# Chartjs
+# Chartsjs
